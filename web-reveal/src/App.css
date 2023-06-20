@@ -13,7 +13,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background: #fff;
+    background: #f4ecc1;
 }
 
 .loader {
@@ -32,13 +32,13 @@ body {
 .clip-top {
     top: 0;
     clip-path: inset(0 0 0 0);
-    background: #000;
+    background: #0b0808;
 }
 
 .clip-bottom {
     bottom: 0;
     clip-path: inset(0 0 0 0);
-    background: #000;
+    background: #0b0808;
 }
 
 .clip-center {
@@ -55,7 +55,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 250vw;
-    color: #fff;
+    color: #f4ecc1;
     mix-blend-mode: difference;
     font-size: 16vw;
 }
@@ -97,7 +97,7 @@ body {
 
 .nav-items a {
     text-decoration: none;
-    color: #000;
+    color: #0b0808;
 }
 
 .nav-items a:not(:last-child) {
